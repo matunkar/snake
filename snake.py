@@ -17,6 +17,9 @@ class snake:
     def grow (self):
         self.length += 1;
     def go (self):
+        if 
+        tailDirectionCalc;
+
         match self.direction:
             case 0:
                 self.headLocation[1] += 1;
